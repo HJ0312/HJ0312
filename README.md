@@ -43,8 +43,3 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-## 📜 Certifications
-<div align="center">
-  <img src="https://img.shields.io/badge/Network%20Administrator%202-2EB2FF?style=for-the-badge&logo=none&logoColor=white">
-  <img src="https://img.shields.io/badge/CSTS%20General-FFB400?style=for-the-badge&logo=none&logoColor=white">
-</div>
