@@ -36,3 +36,15 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 
+## 📖 Currently Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
+
+## 📜 Certifications
+<div align="center">
+  <img src="https://img.shields.io/badge/Network%20Administrator%202-2EB2FF?style=for-the-badge&logo=none&logoColor=white">
+  <img src="https://img.shields.io/badge/CSTS%20General-FFB400?style=for-the-badge&logo=none&logoColor=white">
+</div>
